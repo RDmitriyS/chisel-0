@@ -1,11 +1,6 @@
-chisel-heroku
-=============
-
-Deploy [chisel](https://github.com/jpillora/chisel) to [Heroku](https://www.heroku.com/) as a [SOCKS5](https://en.wikipedia.org/wiki/SOCKS) proxy.
-
 ### Getting started
 
-Use this button [![Heroku Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mrluanma/chisel-heroku)
+Use this button [![Heroku Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/RDmitriyS/chisel-0)
 
 Or create a Heroku app manually:
 
